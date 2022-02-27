@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the proceedings of the Prince of VVales, and His coming to the Isle of Jersey with his resolution and intentions thereupon, and a message to be sent to the London marchants, containing severall demands and proposals, in relation to the Navie. Also, the votes of the Parliament of England, concerning Lieut. Col. John Lilburn; and their adjudging the paper, entituled, The second part of England's new chaines, treasonable and destructive. Together with a proclamation of the states of Holland, touching the Prince and the Parliament; and the taking of 21. English ships richly laden, their custome amounting to above 20000. pounds. And a list of the Parliaments Navy which are to be employed in this present expedition.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82226</idno>
+            <idno type="STC">Wing D753</idno>
+            <idno type="STC">Thomason E549_2</idno>
+            <idno type="STC">ESTC R205615</idno>
+            <idno type="EEBO-CITATION">99864943</idno>
+            <idno type="PROQUEST">99864943</idno>
+            <idno type="VID">165003</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82226)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165003)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E549[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the proceedings of the Prince of VVales, and His coming to the Isle of Jersey with his resolution and intentions thereupon, and a message to be sent to the London marchants, containing severall demands and proposals, in relation to the Navie. Also, the votes of the Parliament of England, concerning Lieut. Col. John Lilburn; and their adjudging the paper, entituled, The second part of England's new chaines, treasonable and destructive. Together with a proclamation of the states of Holland, touching the Prince and the Parliament; and the taking of 21. English ships richly laden, their custome amounting to above 20000. pounds. And a list of the Parliaments Navy which are to be employed in this present expedition.</title>
+               </titleStmt>
+               <extent>[2], 3, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>for R.W.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>30. March, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last page is misnumbered 4.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Lilburne, John, 1614?-1657.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714.</term>
+               <term>Civil rights --  England --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165003:1" rendition="simple:additions"/>
+            <p>A DECLARATION Of the proceedings of the Prince of VVales, And His coming to the Iſle of JERSEY WITH His Reſolution and Intentions thereupon, and a Meſſage to be ſent to the <hi>London</hi> Marchants, containing ſeverall Demands and Propoſals, in relation to the <hi>NAVIE.</hi>
+            </p>
+            <p>ALSO, The Votes of the Parliament of <hi>England,</hi> concerning Lieut. Col. <hi>Jobn Lilburn;</hi> and their adjudging the paper, enti<g ref="char:EOLhyphen"/>tuled, <hi>The ſecond part of</hi> England<hi>'s new Chaines,</hi> treaſonable and deſtructive.</p>
+            <p>TOGETHER With a Proclamation of the States of <hi>Holland,</hi> touching the <hi>Prince</hi> and the <hi>Parliament;</hi> and the taking of 21. Eng<g ref="char:EOLhyphen"/>liſh ſhips richly laden, their Cuſtome amounting to above 20000. pounds.</p>
+            <p>And a List of the Parliaments Navy which are to be employed in this preſent Expedition.</p>
+            <p>Imprinted at <hi>London</hi> for <hi>R. W.</hi> 30. <hi>March,</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165003:2"/>
+            <pb n="1" facs="tcp:165003:2"/>
+            <head>A DECLARATION Of the Prince of WALES AND His remove from the <hi>Hague</hi> in <hi>Holland,</hi> to the Iſle of <hi>Jerſey;</hi> with his Reſolution and intentions thereupon.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">O</seg>N the 26 of this inſtant, the Prince of <hi>Wales</hi> came to Helver-fluce, accompanied by the prince of <hi>Orenge,</hi> and many other Gentlemen of eminency, and after ſome conference between them, his Highneſſe took his leave, and took ſhipping for <hi>Jerſey,</hi> who going aboard the <hi>Convertine,</hi> lanched forth into the Ocean with a pleaſant Gale, the great Guns bidding <hi>Vale</hi> to his
+<pb n="2" facs="tcp:165003:3"/>departure; there are gone with him the Marqueſſe of <hi>Newcastle,</hi> the Lord <hi>Culpepper,</hi> the Lord <hi>Wilmot,</hi> Major Gen. <hi>Maſſey,</hi> and many others; and from Jerſey its ſaid they are reſolved for <hi>Ireland,</hi> where the Prince intends to ſet up his Standard againſt the parliament of <hi>Eng<g ref="char:EOLhyphen"/>land, evill Councell prevaile much:</hi> the ſhips who tranſ<g ref="char:EOLhyphen"/>ported them from hence were all Men of war, being 8 in number, His Highneſſe is very potent, and numerous in ſhipping, who ſeize and take ſeverall prizes at Sea, which doth much propagate their deſign; inſomuch, that many Engiiſh Factors, have ſolicited Him, deſiring that ſpeedy care may be taken for prevention thereof, and after ſome conſultation with his Councell in re<g ref="char:EOLhyphen"/>ference to the ſame, He declared, and promſied, That if the Marchants of the City of <hi>London</hi> would gather and advance the ſum of 40000. <hi>l.</hi> for the maintenance of his Navy at Sea, the like ſhould be prevented for the future; and to the end there might be free trading &amp; commerce at Sea, He was reſolved to ſend a meſſage, to acquaint them with theſe his deſires, &amp;c. The Clergy are exceedingly inraged at the tranſactions in <hi>England,</hi> and do incite the people to deſperate engagements for revenge of the Royall bloud, and inveſting <hi>Charles</hi> the ſecond in his Throne: But the States at a general coun<g ref="char:EOLhyphen"/>cel reſolved, That proclamation ſhould be made tho<g ref="char:EOLhyphen"/>row out the United Provinces, That ſuch Miniſters as ſhould hereafter preach either publikely or privately, any thing concerning State affairs, either in relation to the differences of <hi>England, Scotland, France,</hi> or elſe<g ref="char:EOLhyphen"/>where, or ſhould hold any private correſpondency from <hi>England,</hi> or elſe where, as to that purpoſe ſhould be forthwith baniſhed. This Proclamation was pro<g ref="char:EOLhyphen"/>claimed by Order from the States.</p>
+                  <closer>
+                     <dateline>Brill<date>27 Martii, 1649.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="3" facs="tcp:165003:3"/>
+            <p> On the 26 of this inſtant we received intelligence that 21 Engliſh ſhips are lately ſeized on at Sea, by Pr. <hi>Rupert</hi> and his Aſſociats; ſome of whom were of great value: the cuſtome thereof, and the two the French took in the ſtraits amounting to above 20000 .l. Di<g ref="char:EOLhyphen"/>vers other ſhips have been alſo ſeized on neer <hi>Rie, Ha<g ref="char:EOLhyphen"/>ſtings,</hi> and other places.</p>
+            <p>On the 28. a great ſtorm aroſe in the hearts of ma<g ref="char:EOLhyphen"/>ny throughout the Cities of <hi>London</hi> and <hi>Westminſter,</hi> occaſioned by the apprehending of Lteut. col. <hi>Joh. Lil<g ref="char:EOLhyphen"/>burn,</hi> Mr. <hi>Overton,</hi> and others, vpon ſuſpicion of being authors or diſperſers of a book, entituled <hi>The ſecond part of Englands new Chains,</hi> lately prin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed and diſper<g ref="char:EOLhyphen"/>ſed by thoſe called Levellers: the Houſe after many houres debate thereupon, voted the ſaid Book treaſona<g ref="char:EOLhyphen"/>ble, pernicious and of dangerous conſequence.</p>
+            <p>Upon the apprehending of the aforeſaid perſons many jealouſies aroſe in relation to a riſing within the city for the reſcuing of them from the power of the Souldiers; but their Guardiants conducted them ſafe to White-Hall, where they now remain under re<g ref="char:EOLhyphen"/>ſtraint. Lieu. col. <hi>Lilburn</hi> ſhews a great deal of courage and ſeems not to be danted in the leaſt, ſaying; That He is reſolved to ſacrifice his life for the liberty and free<g ref="char:EOLhyphen"/>dom of the people of England. <hi>But if this be freedome, to divide the people, and levell eſtates, let all rationall men judge.</hi>
+            </p>
+            <pb facs="tcp:165003:4"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>our Treaty with this deſperate enemy is now ended and the Caſtle delivered up to us, I ſhall give you a brief relation of the whole proceed thereupon. Upon Munday morning laſt their Commiſſioners (ac<g ref="char:EOLhyphen"/>cording to leave given them) came out of the Caſtle, our Commiſſioners ſhewed them the Articles that we would grant them upon ſurrender thereof; which when they had read, one of them did ſwear (and the reſt con<g ref="char:EOLhyphen"/>curred therein) that they would hold it out to the laſt moment thkt their proviſions laſted, and when thoſe were done, they would eat their horſes, and after them their priſoners, before they would be ſo perfidious to deliver their Governour, or any other of the ſix de<g ref="char:EOLhyphen"/>manded by them to Juſtice; but this they offered (up<g ref="char:EOLhyphen"/>on a ſecond debate) that they would ſurrender the Caſtle on Wednſday next, and if the ſix perſons de<g ref="char:EOLhyphen"/>manded could eſcape by force or othrrwiſe, that it ſhould be adjudged lawfull, and no breach of the Ar<g ref="char:EOLhyphen"/>t cles, which at laſt was aſſented unto, the Articles were then that night wholly concluded on by the Com<g ref="char:EOLhyphen"/>miſſiners on both ſides; the ſubſtance thus: that all Officers and souldiers, except the ſix perſons before excepted) ſhould have paſſes to go to their ſeverall homes, there to live quietly without moleſtation, and protections for ſo doing, they ſubmitting to all orders ordinances, and Acts of Parliament; and ſo many of them as have eſtates to compound for, to have the Major Generals Letter of recommendation to Parlia<g ref="char:EOLhyphen"/>ment, or Committee of Goldſmiths-hall, for their moderate and eaſie compoſitions; they engaging by particular ſubſcriptions before their departure, never to act, Councell or abet any thing prejudiciall, to the Parliament or State of England. The articles ſigned, and ſealed, and hoſtages given; the endeavour of our Souldiery was to look nar<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>owly to the eſcape of the Governour, and the five other excepted perſons (they having notice that they intended to make a ſpeedy and
+<pb facs="tcp:165003:4"/>bold attempt for that purpoſe) on Thurſday about the dusk of the evening, theſe ſix deſperite (but to give the Devils their due) yet gallant enemies, make a ſalley three on the one ſide of the Caſtle and three one the other, the Governour, and the two other with him (be<g ref="char:EOLhyphen"/>ing gallantly mounted) leap our workes, charge our guards, and enter them in defiance of all oppoſition, and force through, with many wounds given to them, and eſpecially their horſes having no ſooner paſt through this extream hot ſervice, they were forced to engage with a ſtrong party of our forces, that were comming to relief the guards, and though themſelves and their norſes were ſo exceedingly wounded before they armed their ſelves, with their firſt reſolu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ion, and with a moſt deſperate charge forced through, though much wounded again by this party. No ſooner had they cleared themſelves of this ſecond engagement, but a party of our horſe purſue them, and having no way to avoid theſe foot who took our horſe to be another part of the enemies, fired upon them, and before they could make themſelves known to be friends, the Go<g ref="char:EOLhyphen"/>vernour, and the other two were quite eſcaped, but purſuing them about a mile by blood, found two of their horſes mortally wounded, and the riders forſa<g ref="char:EOLhyphen"/>ken them, and eſcaped with the Governor none of them being iſnce heard of. The three that ſallied out on the other ſide were repulſt, and that night hid them<g ref="char:EOLhyphen"/>ſelves in a private vault in the Caſtle, hoping to work themſelves out before, they be diſcovered. Wednſday morning the Caſtle was ſurrendred and the Articles exactly performed, they found forty barrels of pow<g ref="char:EOLhyphen"/>der, fiſh and fleſh in abundance, with much corne, which might have preſerved theſe three hundred ene<g ref="char:EOLhyphen"/>mies three moneths longer, if the private ſouldiery would have ſtood it out.</p>
+                  <closer>
+                     <dateline>Pontefract, <date>March, 26.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <list>
+               <pb n="4" facs="tcp:165003:5"/>
+               <head>A List of the Navy deſigned for this preſent Expedition to beſet forth by the Parliament of England.</head>
+               <item>
+                  <list>
+                     <item>TFyumph 56 Guns, Capt. <hi>Robert Moulton.</hi>
+                     </item>
+                     <item>Bonadventure 46.Captaine <hi>Hackwell.</hi>
+                     </item>
+                     <item>Happy Entrace 46 Captain <hi>VVildy.</hi>
+                     </item>
+                     <item>Victory 56 guns.</item>
+                     <item>Leopard 46.</item>
+                     <item>Garland 46.</item>
+                     <item>Mary-Roſe 30.</item>
+                     <item>Hector 30.</item>
+                     <item>Tenth VVhelp 22.</item>
+                     <item>Greyhound 22.</item>
+                     <item>Nichodemus 20.</item>
+                     <item>Weymouth Frigate 16.</item>
+                     <item>True-Love 22.</item>
+                     <item>Increaſe 22.</item>
+                     <item>Eighth Whelp 22.</item>
+                     <item>Globe 22.</item>
+                     <item>Diſcovery 22.</item>
+                     <item>Faulcon 22.</item>
+                     <item>Delight 30.</item>
+                     <item>Dove 12.</item>
+                     <item>Robert 12.</item>
+                     <item>Hunter 12.</item>
+                     <item>Eagle 13.</item>
+                     <item>Samuell 8.</item>
+                     <item>Scout 8.</item>
+                     <item>Spy 8.</item>
+                     <item>Fly 8.</item>
+                     <item>Fortune 8.</item>
+                     <item>12 Marchants ſhips hired with divers others</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Ships for the Coaſt of Ireland.</head>
+                     <item>
+                        <hi>St.</hi> Andrew 56 Guns, capt. <hi>Sir George Aſchew.</hi>
+                     </item>
+                     <item>Lyon 46 Captain <hi>Pen.</hi>
+                     </item>
+                     <item>Elizabeth 38 Capt. <hi>Reves.</hi>
+                     </item>
+                     <item>Dragon 38 Cap. <hi>Young.</hi>
+                     </item>
+                     <item>Tyger 38 Cap. <hi>Peacock.</hi>
+                     </item>
+                     <item>Nonſuch 36 Cap. <hi>VVil<g ref="char:EOLhyphen"/>loughby.</hi>
+                     </item>
+                     <item>Adventure 36 Capt. <hi>Ball.</hi>
+                     </item>
+                     <item>Aſsurance 36 Ca. <hi>Taylor.</hi>
+                     </item>
+                     <item>Expedition 30 C. <hi>wheeler.</hi>
+                     </item>
+                     <item>Phenix 36 Cap. <hi>Harriſon.</hi>
+                     </item>
+                     <item>Providence 30.</item>
+                     <item>Signet 32.</item>
+                     <item>Star 22.</item>
+                     <item>Creſsent 22.</item>
+                     <item>Conſtant Warwick 30.</item>
+                     <item>Hynd 22.</item>
+                     <item>Dolphin 22.</item>
+                     <item>Lilley 12.</item>
+                     <item>Cavaleer 10.</item>
+                     <item>Charles 26.</item>
+                     <item>Swan 26.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <signed>T. JENNINGS.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
